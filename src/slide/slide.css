@@ -1,0 +1,24 @@
+
+/*second slide*/
+.second-slide{
+width: 100%;
+}
+.second-slide h2{
+text-align: center;
+}
+.second-slide p{
+text-align: center;
+}
+.second-slide .show{
+display: flex;
+}
+.second-slide .show .second-slide-text{
+width: 50%;
+}
+.second-slide .show .second-slide-image{
+width: 50%;
+}
+.second-slide .show .second-slide-image img{
+width: 80%;
+}
+/*second slide*/

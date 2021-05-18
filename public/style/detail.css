@@ -1,0 +1,56 @@
+.topbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e6e6e6;
+
+}
+.function-button{
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+    width: 25%;
+}
+.similiar-parameter{
+    display: flex;
+    width: 25%;
+}
+.similiar-parameter .similiar-number{
+    color: b#bfbfbf;
+}
+.similiar-parameter .similiar-number h2{
+    margin-left: .5em;
+}
+.similiar-parameter .similiar-20{
+    margin-left: 2em;
+}
+.similiar-parameter .similiar-20 h2{
+    margin-left: .7em;
+}
+.body-document{
+    display: flex;
+}
+.body-document .maindoc embed{
+    width: 60em;
+    height: 60em;
+}
+.body-document .sidebar{
+    width: 30%;
+}
+.body-document .sidebar .top-label{
+    background-color: #00ff00;
+    padding: 0.3em 1em;
+}
+.body-document .sidebar .source-link .link-element{
+    display: flex;
+    margin-left: 1em;
+    border-bottom: solid gray;
+}
+.left {
+    width: 25%;
+}
+.mid{
+    width: 50%;
+}
+.right{
+    width: 25%;
+}

@@ -1,0 +1,32 @@
+/*Footer*/
+.main-footer{
+    /*position: absolute;*/
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+  }
+  .main-footer .up-footer{
+    display: flex;
+    background-color: #f2f6fa;
+    flex-direction: row;
+  
+  }
+  .main-footer .down-footer{
+    font: bold;
+    background-color: #06f74e;
+    color: white;
+  }
+  .main-footer .down-footer p{
+    text-align: center;
+  }
+  .main-footer .up-footer ul{
+    list-style-type: none;
+  }
+  .main-footer .up-footer ul li i{
+    font-size: 1em;
+    float: center;
+  }
+  .main-footer .up-footer ul li b{
+    margin-left: 0.3rem;
+  }
+  /*Footer*/
